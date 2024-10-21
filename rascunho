@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Rodapé</title>
+   <style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+    footer {
+        background-color: #ff0101; 
+        color: white; 
+        text-align: left; 
+        padding: 10px; 
+    }
+    table {
+        margin: 20px auto; 
+        border-collapse: collapse; 
+        width: 80%; 
+    }
+    th, td {
+        border: 1px solid white; 
+        padding: 10px; 
+        text-align: left; 
+    }
+    img {
+        height: auto; 
+        display: block; 
+        margin: 10px auto;                                                                                                           
+    }
+</style>
+</head>
+<body>
+    <h2>Meu Primeiro Rodapé</h2>
+
+    <footer>
+        <p>2024 Meu Website. Todos os direitos reservados.</p>
+        
+            <p>
+                <p>Contato</p>
+                <p>Redes Sociais</p>
+           
+                <p>Email: contato@meusite.com</p>
+                <p><a href="https://facebook.com" style="color: white;">Facebook</a></p>
+            
+          
+                Telefone: (61) 1234-5678</td>
+               <p><a href="https://twitter.com" style="color: white;">Twitter</a></p>
+            </p>
+
+        <img src="img/ameericanas.jpg" alt="Descrição da imagem">
+    </footer>
+    
+     <h1> Sobre nossa americanas</h1>
+     <p>Fundada em 1929, a Americanas é uma das principais varejistas do Brasil, oferecendo uma ampla variedade de produtos com compromisso em excelência no atendimento. Com lojas físicas e uma plataforma
+        Nosso foco é fornecer qualidade e preços competitivos, sempre com um serviço dedicado. Estamos em constante evolução para atender às suas necessidades de forma ágil e segura.
+        </p>
+        <img src="img/Americanas-Divulgação.jpg" alt="">
+ 
+</body>
+</html>
